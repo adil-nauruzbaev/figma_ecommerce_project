@@ -1,5 +1,4 @@
 import 'package:bloc/bloc.dart';
-import 'package:equatable/equatable.dart';
 import 'package:figma_ecommerce_project/features/home/domain/entities/bestseller_entity.dart';
 import 'package:figma_ecommerce_project/features/home/domain/entities/home_entity.dart';
 import 'package:figma_ecommerce_project/features/home/domain/entities/home_store_entity.dart';

@@ -4,9 +4,6 @@ import 'package:figma_ecommerce_project/features/home/presentation/widgets/Geolo
 import 'package:figma_ecommerce_project/features/home/presentation/widgets/HotSales/hot_sales_widget.dart';
 import 'package:figma_ecommerce_project/features/home/presentation/widgets/Search/search_widget.dart';
 import 'package:figma_ecommerce_project/features/home/presentation/widgets/SelectCategory/select_category_widget.dart';
-import 'package:flutter/cupertino.dart';
-import 'package:flutter/src/widgets/container.dart';
-import 'package:flutter/src/widgets/framework.dart';
 import 'package:flutter/material.dart';
 
 
