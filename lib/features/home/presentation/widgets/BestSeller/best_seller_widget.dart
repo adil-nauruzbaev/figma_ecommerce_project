@@ -1,4 +1,5 @@
 import 'package:cached_network_image/cached_network_image.dart';
+import 'package:figma_ecommerce_project/common/app_colors/app_colors.dart';
 import 'package:figma_ecommerce_project/features/home/presentation/bloc/home_bloc.dart';
 import 'package:figma_ecommerce_project/features/home/presentation/bloc/home_state.dart';
 import 'package:flutter/cupertino.dart';

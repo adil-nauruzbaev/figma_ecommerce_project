@@ -1,8 +1,9 @@
+import 'package:figma_ecommerce_project/common/app_colors/app_colors.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/src/widgets/container.dart';
 import 'package:flutter/src/widgets/framework.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_ecommerce/common/app_colors/app_colors.dart';
+
 import 'package:flutter_svg/flutter_svg.dart';
 
 class SelectCategoryWidget extends StatefulWidget {

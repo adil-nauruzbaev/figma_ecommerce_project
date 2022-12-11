@@ -1,6 +1,7 @@
+import 'package:figma_ecommerce_project/common/app_colors/app_colors.dart';
+import 'package:figma_ecommerce_project/common/app_custom_icons.dart/svg_icons.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_ecommerce/common/app_colors/app_colors.dart';
-import 'package:flutter_ecommerce/common/app_custom_icons.dart/svg_icons.dart';
+
 
 class GeolocationWidget extends StatelessWidget {
   const GeolocationWidget({super.key});

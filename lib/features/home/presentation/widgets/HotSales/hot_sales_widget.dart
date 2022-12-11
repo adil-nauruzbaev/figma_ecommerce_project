@@ -1,10 +1,11 @@
 import 'package:cached_network_image/cached_network_image.dart';
 import 'package:carousel_slider/carousel_slider.dart';
+import 'package:figma_ecommerce_project/common/app_colors/app_colors.dart';
+import 'package:figma_ecommerce_project/features/home/presentation/bloc/home_bloc.dart';
+import 'package:figma_ecommerce_project/features/home/presentation/bloc/home_state.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:flutter_ecommerce/common/app_colors/app_colors.dart';
-import 'package:flutter_ecommerce/features/home/presentation/bloc/home_bloc.dart';
-import 'package:flutter_ecommerce/features/home/presentation/bloc/home_state.dart';
+
 import 'package:shimmer/shimmer.dart';
 
 class HotSalesWidget extends StatefulWidget {
