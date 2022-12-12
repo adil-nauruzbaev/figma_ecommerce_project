@@ -1,16 +1,19 @@
-# figma_ecommerce_project
+# Figma Ecommerce
 
-A new Flutter project.
+## Technologies that are used:
+- Dart
+- Flutter
+- Clean Architecture
+- Dependency Injection, GetIt
+- Http, JsonSerializable
+- Equatable
+- Flutter Bloc
+- Git
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Video:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://user-images.githubusercontent.com/106264625/207065204-0c3ac795-43a4-4a35-8148-c17fe0fcc615.mp4
+
