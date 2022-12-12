@@ -2,8 +2,6 @@ import 'package:figma_ecommerce_project/common/app_colors/app_colors.dart';
 import 'package:figma_ecommerce_project/common/app_custom_icons.dart/svg_icons.dart';
 import 'package:figma_ecommerce_project/features/home/presentation/widgets/Filter/filter_widget.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter/src/widgets/container.dart';
-import 'package:flutter/src/widgets/framework.dart';
 
 
 class SearchWidget extends StatelessWidget {

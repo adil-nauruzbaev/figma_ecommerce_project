@@ -21,9 +21,7 @@ class _SelectCategoryWidgetState extends State<SelectCategoryWidget> {
     {'name': 'Computer', 'IconPath': 'assets/Computer.svg'},
     {'name': 'Health', 'IconPath': 'assets/Health.svg'},
     {'name': 'Books', 'IconPath': 'assets/Books.svg'},
-    {'name': '', 'IconPath': 'assets/Phone.svg'},
-    {'name': '', 'IconPath': 'assets/Phone.svg'},
-    {'name': '', 'IconPath': 'assets/Phone.svg'}
+    
   ];
 
   @override

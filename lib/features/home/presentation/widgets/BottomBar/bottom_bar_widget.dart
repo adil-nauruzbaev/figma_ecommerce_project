@@ -1,6 +1,9 @@
 import 'package:badges/badges.dart';
 import 'package:figma_ecommerce_project/common/app_colors/app_colors.dart';
 import 'package:figma_ecommerce_project/common/app_custom_icons.dart/custom_icons.dart';
+import 'package:figma_ecommerce_project/features/cart/presentation/bloc/cart_bloc.dart';
+import 'package:figma_ecommerce_project/features/cart/presentation/bloc/cart_state.dart';
+import 'package:figma_ecommerce_project/features/cart/presentation/pages/cart_page.dart';
 import 'package:figma_ecommerce_project/features/home/presentation/pages/home_page.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';

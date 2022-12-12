@@ -23,7 +23,7 @@ class GeolocationWidget extends StatelessWidget {
               child: svgGeolocation,
             ),
             const Text(
-              'Astana, KZ',
+              'Zihuatanejo, Gro',
               style: TextStyle(
                 fontFamily: 'MarkPronormal400',
                 fontSize: 14,
